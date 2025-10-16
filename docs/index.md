@@ -2,8 +2,8 @@
 
 <img src="img/CRT.png" alt="DILK CRT Logo" width="200"/>
 
-Some starter info here
+Some starter info here.
 
 ## Example Heading
 
-Some more random stuff
+Some more random stuff.
